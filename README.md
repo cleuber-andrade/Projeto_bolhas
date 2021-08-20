@@ -11,7 +11,7 @@ Site desenvolvido para praticar animações utilizando CSS.
 ```bash
 Praticar conhecimentos em HTML5 e CSS3.
 
--Praticar de animações em CSS com @keyframes e psedo código nth-child();
+-Praticar animações em CSS com @keyframes e psedo código nth-child();
 -Aplicação de sidebar em um site;
 
 ```
