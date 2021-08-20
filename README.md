@@ -23,7 +23,7 @@ Praticar conhecimentos em HTML5 e CSS3.
 </div> <br> 
 
 
-## :pager: Tela principal da Site Dark
+## :pager: Tela principal da Site Bolhas
 
  <img src="https://github.com/cleuber-andrade/Projeto_bolhas/blob/main/img/bolhas.jpg" alt="Tela Principal">
 
